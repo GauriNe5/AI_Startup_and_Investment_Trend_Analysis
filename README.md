@@ -12,6 +12,7 @@ The project consists of several core components:
 Funding Distribution: Analyzed before and after imputation to correct missing values.
 Industry-wise Investment Trends: Identified the top 10 industries receiving the most funding.
 AI Startup Growth Forecasting: Used ML models to predict potential funding based on historical data.
+
 🖥️ Technologies Used
 ✅ Python – Pandas, NumPy, Matplotlib, Seaborn for data analysis.
 ✅ Machine Learning – Scikit-learn, Random Forest for predictive modeling.
@@ -26,12 +27,10 @@ AI Startup Growth Forecasting: Used ML models to predict potential funding based
 📌 Get Started
 Clone the repo, install dependencies, and launch the Streamlit dashboard:
 
-sh
-Copy
-Edit
 git clone https://github.com/yourusername/ai-startup-analytics.git
 pip install -r requirements.txt
 streamlit run app.py
+
 Star the repository ⭐ if you find it useful! 🚀
 
 
